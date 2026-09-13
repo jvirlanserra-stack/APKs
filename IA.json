@@ -1,1 +1,5 @@
-{"v":2,"url":"https://raw.githubusercontent.com/jvirlanserra-stack/APKs/refs/heads/main/Miatiaendiadeiapps.apk","info":"Esta actualización añadirá a la aplicación \"Juanma Games\", una aplicación para jugar a mis juegos."}
+{
+    "v": 2,
+    "url": "https://raw.githubusercontent.com/jvirlanserra-stack/APKs/refs/heads/main/Miatiaendiadeiapps.apk",
+    "info": "Esta actualización añadirá sistemas para actualizar más facilmente las aplicaciones y una opción para, que cuando estés offline, descargar semiautomáticamente aplicaciones cuando vuelva la conexión. Esta nueva función añadirá un botón para cuando estés offline, notificarte cuando vuelva la conexión e iniciar la descarga automática (que deberá ser aceptada por el usuario por motivos del sistema operativo del teléfono)."
+}
